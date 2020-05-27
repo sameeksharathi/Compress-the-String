@@ -15,4 +15,5 @@ A single line of output consisting of the modified string.
 Constraints:
 
 All the characters of S denote integers between 0 and 9.
+
 1 <= |S| <= 10^4
